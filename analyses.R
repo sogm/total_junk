@@ -5,3 +5,5 @@ plot(x,y)
 summary(x)
 summary(y)
 summary(x)
+
+mean(c(1,2,3))
