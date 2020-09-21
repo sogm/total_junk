@@ -4,3 +4,4 @@ plot(x,y)
 
 summary(x)
 summary(y)
+summary(x)
